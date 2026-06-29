@@ -1,4 +1,4 @@
-# 
+# Gratuito SceneUnderstand script. Descarga e instala con manejo de errores y control de versiones — rápido, seguro y fácil de usar.
 
 
 
